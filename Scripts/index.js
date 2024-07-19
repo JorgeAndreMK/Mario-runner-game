@@ -37,4 +37,4 @@ clearInterval(loop)
 }, 10);
 
 document.addEventListener("keydown",pulo)
-
+document.addEventListener("click",pulo)
